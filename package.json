@@ -1,0 +1,18 @@
+{
+  "name": "capsize",
+  "version": "0.0.1",
+  "description": "Slackbot for capacity tracking",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Randy Tolentino",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.0.5",
+    "redis": "^2.7.1"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
